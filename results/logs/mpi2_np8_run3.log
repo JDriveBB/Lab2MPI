@@ -1,0 +1,23 @@
+MPI version 2 | processes=8 (1 master + 7 workers) | files=3000
+  rank 1: files=432 local_time=5.849956s
+  rank 2: files=444 local_time=5.891507s
+  rank 3: files=401 local_time=5.854195s
+  rank 4: files=460 local_time=5.870652s
+  rank 5: files=414 local_time=5.858465s
+  rank 6: files=398 local_time=5.874715s
+  rank 7: files=451 local_time=5.855665s
+LI=1.0045
+SPREAD=0.0071
+EXECUTION_TIME=5.960287
+Total occurrences: 3631778
+Top 10 query words:
+  a: 785774
+  para: 392156
+  sus: 228913
+  otros: 105530
+  ante: 99832
+  unos: 88794
+  otra: 83901
+  vosotros: 61617
+  mios: 58420
+  tuya: 56635
